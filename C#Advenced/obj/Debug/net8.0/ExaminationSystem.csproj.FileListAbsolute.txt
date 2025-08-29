@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\bin\Debug\net8.0\ExaminationSystem.exe
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\bin\Debug\net8.0\ExaminationSystem.deps.json
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\bin\Debug\net8.0\ExaminationSystem.runtimeconfig.json
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\bin\Debug\net8.0\ExaminationSystem.dll
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\bin\Debug\net8.0\ExaminationSystem.pdb
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\ExaminationSystem.dll
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\refint\ExaminationSystem.dll
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\ExaminationSystem.pdb
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\HP\source\repos\C#Advenced\C#Advenced\obj\Debug\net8.0\ref\ExaminationSystem.dll
