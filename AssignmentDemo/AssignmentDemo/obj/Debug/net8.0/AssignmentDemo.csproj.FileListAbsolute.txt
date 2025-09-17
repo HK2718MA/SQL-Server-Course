@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\bin\Debug\net8.0\AssignmentDemo.exe
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\bin\Debug\net8.0\AssignmentDemo.deps.json
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\bin\Debug\net8.0\AssignmentDemo.runtimeconfig.json
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\bin\Debug\net8.0\AssignmentDemo.dll
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\bin\Debug\net8.0\AssignmentDemo.pdb
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\AssignmentDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\AssignmentDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\AssignmentDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\AssignmentDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\AssignmentDemo.dll
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\refint\AssignmentDemo.dll
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\AssignmentDemo.pdb
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\AssignmentDemo.genruntimeconfig.cache
+C:\Users\HP\source\repos\AssignmentDemo\AssignmentDemo\obj\Debug\net8.0\ref\AssignmentDemo.dll
