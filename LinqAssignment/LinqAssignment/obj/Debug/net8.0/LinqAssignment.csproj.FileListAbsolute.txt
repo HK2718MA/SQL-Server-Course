@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.exe
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.deps.json
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.runtimeconfig.json
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.dll
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.pdb
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.AssemblyInfo.cs
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.dll
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\refint\LinqAssignment.dll
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.pdb
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.genruntimeconfig.cache
+C:\Users\HP\source\repos\LinqAssignment\LinqAssignment\obj\Debug\net8.0\ref\LinqAssignment.dll
