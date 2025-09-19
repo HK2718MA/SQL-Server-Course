@@ -14,6 +14,7 @@ class Program
             Console.WriteLine("DB Provider: " + context.Database.ProviderName);
         }
 
-        Console.WriteLine("Ready ✅. اعملي دلوقتي: dotnet ef migrations add InitialCreate  وبعدها dotnet ef database update");
+        Console.WriteLine("Ready: dotnet ef migrations add InitialCreate  وبعدها dotnet ef database update");
     }
 }
+
