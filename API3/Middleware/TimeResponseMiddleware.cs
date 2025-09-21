@@ -1,4 +1,4 @@
-﻿// Middleware/TimeResponseMiddleware.cs
+
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Threading.Tasks;
@@ -22,3 +22,4 @@ namespace EmployeesApi.Middleware
         }
     }
 }
+
