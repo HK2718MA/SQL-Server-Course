@@ -1,4 +1,4 @@
-﻿// Middleware/TimeResponseMiddlewareExtensions.cs
+
 using Microsoft.AspNetCore.Builder;
 
 namespace EmployeesApi.Middleware
@@ -11,3 +11,4 @@ namespace EmployeesApi.Middleware
         }
     }
 }
+
