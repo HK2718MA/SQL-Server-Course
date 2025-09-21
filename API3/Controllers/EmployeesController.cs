@@ -60,7 +60,7 @@ namespace EmployeeApi.Controllers
             return NoContent();
         }
 
-        // ✅ Search by Name
+    
         [HttpGet("search/{name}")]
         public async Task<IActionResult> SearchByName(string name)
         {
@@ -73,3 +73,4 @@ namespace EmployeeApi.Controllers
         }
     }
 }
+
